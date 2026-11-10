@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LOCIN</string>
+
+    <!-- Notification strings -->
+    <string name="notification_title">Focus Session Active</string>
+    <string name="notification_text">Stay focused! Keep going</string>
+
+    <!-- Accessibility Service -->
+    <string name="accessibility_service_description">LOCIN uses Accessibility Service to help you stay focused by monitoring and blocking distracting apps and content (YouTube Shorts, Instagram Reels) when you enable blocking features. This is the primary feature of LOCIN - to help students maintain focus during study sessions.</string>
+
+    <!-- Device Admin -->
+    <string name="device_admin_description">LOCIN uses Device Admin to prevent uninstall during active focus sessions, helping you stay committed to your study goals.</string>
+
+    <!-- Permissions -->
+    <string name="permission_usage_stats_title">Usage Stats Permission</string>
+    <string name="permission_usage_stats_desc">Required to track app usage time and enforce app blocking</string>
+    <string name="permission_accessibility_title">Accessibility Service</string>
+    <string name="permission_accessibility_desc">Required to detect and block apps, YouTube Shorts, and Instagram Reels</string>
+    <string name="permission_overlay_title">Display Over Apps</string>
+    <string name="permission_overlay_desc">Required to show block screens when restricted apps are opened</string>
+    <string name="permission_notification_title">Notifications</string>
+    <string name="permission_notification_desc">Required for focus reminders and schedule alerts</string>
+
+    <!-- Screens -->
+    <string name="screen_reminders">Reminders</string>
+    <string name="screen_exercises">Exercises</string>
+    <string name="screen_app_blocking">App Blocking</string>
+    <string name="screen_web_blocking">Web Blocking</string>
+    <string name="screen_stats">Stats</string>
+    <string name="screen_leaderboard">Leaderboard</string>
+    <string name="screen_schedule">Schedule</string>
+    <string name="screen_settings">Settings</string>
+
+    <!-- Actions -->
+    <string name="action_start">START</string>
+    <string name="action_pause">PAUSE</string>
+    <string name="action_stop">STOP</string>
+    <string name="action_resume">RESUME</string>
+    <string name="action_snooze">SNOOZE</string>
+
+    <!-- Messages -->
+    <string name="focus_session_started">Focus session started</string>
+    <string name="focus_session_paused">Session paused</string>
+    <string name="focus_session_stopped">Session stopped</string>
+    <string name="app_blocked_message">App Blocked by LOCIN\n\nStay focused on your goals!</string>
+
+    <!-- Leaderboard -->
+    <string name="users_focusing_now">Users focusing now</string>
+    <string name="top_studiers">Top studiers this week</string>
+
+    <!-- Schedule -->
+    <string name="no_schedules">No schedules yet. Tap + to create one.</string>
+
+    <!-- Settings -->
+    <string name="profile">Profile</string>
+    <string name="name">Name</string>
+    <string name="class_grade">Class / Grade</string>
+    <string name="age">Age</string>
+    <string name="daily_goal">Daily focus goal</string>
+    <string name="streak_threshold">Streak counts a day when I focus</string>
+</resources>
